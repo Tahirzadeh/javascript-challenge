@@ -11,3 +11,8 @@ body {
 form input[name='occupationOther'] {
     display: none;
 }
+
+.invalid-field {
+	border-color: #FF0000;
+	border: 1px solid;
+}
